@@ -1,0 +1,11 @@
+tensorflow
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+pandas
+numpy
+keras
+fastapi
+uvicorn
+python-multipart
